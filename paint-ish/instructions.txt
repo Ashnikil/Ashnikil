@@ -1,0 +1,23 @@
+Hello , this is my paint-ish project
+
+This is only a prototype so it is not currently made with the user in mind.
+
+That being said however, you can still use the program if you read the instructions below
+
+To start you have to type the name (not the .png /etc part) and then press enter
+For example type "red" and press enter
+You should see a red box appear on screen
+
+1) You can drag and drop the red box into the highlighted area in the middle of the screen.
+you can also make the box bigger or smaller but clicking on the very edge of the box and dragging outwards (as i mentioned above , this is currently not made with the user in mind)
+
+2) You can press ctrl + s to save the image inside of the highlighted area.
+after pressing ctrl + s you can press ctrl + s again or the escape key to cancel
+however you can also instead type a file name and press enter to save an image of what is inside the highlighted area.
+
+3) After saving a new image you can also use this image by typing out the file name (again without the .png /etc) and pressing enter
+
+4) Have fun , experiment and create new image and make new images with these images
+
+As i mentioned above , this is only a prototype version that i made for fun only to show the functionality.
+
